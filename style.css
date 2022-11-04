@@ -3,15 +3,11 @@ h1{
     background-color: papayawhip;
 }
 p{
-<<<<<<< HEAD
     background-color: pink;
-=======
-    background-color: purple;
 }
 form{
     border: 1px black;
     background-color: aqua;
     font-size: large;
     font-weight: 50px;
->>>>>>> fe7a96cfa41bda4d036fd4d3e86f5d08162c3007
 }
