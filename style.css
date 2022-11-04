@@ -5,3 +5,9 @@ h1{
 p{
     background-color: purple;
 }
+form{
+    border: 1px black;
+    background-color: aqua;
+    font-size: large;
+    font-weight: 50px;
+}
